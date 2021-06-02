@@ -1,2 +1,3 @@
 # MaskOrNoMask
- Mask detection using various algorithms.
+Classifier to detect mask.
+Dataset URL: [Kaggle](https://www.kaggle.com/andrewmvd/face-mask-detection)
